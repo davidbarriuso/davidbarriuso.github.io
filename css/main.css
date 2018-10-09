@@ -685,7 +685,7 @@ blockquote {
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .section-inner.start-page-full-width .hp-text-block {
